@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.flex-container{
+    display: flex;
+    width: 800px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+.box-item{
+    height: 150px;
+    width: 200px;
+    margin: 20px;
+    background-color: skyblue;
+    border: 5px solid gray;
+}
